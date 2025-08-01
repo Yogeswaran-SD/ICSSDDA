@@ -6,12 +6,14 @@ import Footer from './Footer'
 export default function Main() {
   return (
     <div>
-        <Header/>
-        <main>
-          <Outlet/>
-        </main>
-        <Footer/>
-        
+      <div className='fixed top-0 z-50 w-full'>
+        <Header />
+      </div>
+      <main>
+        <Outlet />
+      </main>
+      <Footer />
+
     </div>
   )
 }
