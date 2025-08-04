@@ -23,8 +23,8 @@ export default function Approuter () {
             <Route element={<Main/>}>
                 <Route path="/" element={<Home/>}/>
                 <Route path="/About" element={<About/>}/>
-                <Route path="/Conference-Track" element={<Conference-Track/>}/>
-                <Route path="/Contact-Us" element={<Contact-Us/>}/>
+                <Route path="/Conference-Track" element={<Conference/>}/>
+                <Route path="/Contact-Us" element={<Contact/>}/>
                 <Route path="/EditorialBoard" element={<EditorialBoard/>}/>
                 <Route path="/KeyDates" element={<KeyDates/>}/>
                 <Route path="/Organizing" element={<Organizing/>}/>

@@ -13,7 +13,7 @@
     "@flaticon/flaticon-uicons": "^3.3.1",
     "@tailwindcss/vite": "^4.1.11",
     "hamburger-react": "^2.5.2",
-    "preline": "^3.2.0",
+    "preline": "^3.2.2",
     "react": "^19.1.0",
     "react-burger-menu": "^3.1.0",
     "react-dom": "^19.1.0",
